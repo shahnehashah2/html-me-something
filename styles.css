@@ -32,6 +32,7 @@ img {
 
 iframe {
 	text-align: center;
+	display: block;
 }
 
 main {
